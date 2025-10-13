@@ -14,7 +14,7 @@
 
 ## 🛠 Languages and Tools
 
-<p align="left" style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+<p align="left" style="display: flex; align-items: center; justify-content:center; gap: 20px; flex-wrap: wrap;">
   <span style="display: flex; align-items: center; gap: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" />
     <b>HTML</b>

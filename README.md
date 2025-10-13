@@ -5,10 +5,26 @@
 - 📄 Education: Grade 12
 
 ## 🔗 Connect with me:
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ayush.bhattarai.29)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayush_bhattarai29/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-bhattarai-a6b38238a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushbhattarai29@gmail.com)
+## 🔗 Connect with me
+
+<p align="left" style="display: flex; align-items: center; gap: 20px;">
+  <a href="https://facebook.com/yourprofile" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" width="50" />
+  </a>
+
+  <a href="https://instagram.com/yourprofile" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="50" />
+  </a>
+
+  <a href="https://linkedin.com/in/yourprofile" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="50" />
+  </a>
+
+  <a href="mailto:PrasannaNiroula987@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="50" />
+  </a>
+</p>
+
 
 ## 🛠 Languages and Tools
 

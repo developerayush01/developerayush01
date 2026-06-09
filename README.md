@@ -1,6 +1,6 @@
 # 👨‍💻 Frontend Web Developer
 
-- 🌱 I’m currently learning Full Stack
+- 🌱 I’m currently learning **Full Stack**
 - 📫 How to reach me: ayushbhattarai909@gmail.com
 - 📄 Education: BIT
 - 

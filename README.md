@@ -1,8 +1,8 @@
 # 👨‍💻 Frontend Web Developer
 
-- 🌱 I’m currently learning **React JS**
-- 📫 How to reach me: ayushbhattarai29@gmail.com
-- 📄 Education: Grade 12
+- 🌱 I’m currently learning Full Stack
+- 📫 How to reach me: ayushbhattarai909@gmail.com
+- 📄 Education: BIT
 - 
 ## 🔗 Connect with me
 
